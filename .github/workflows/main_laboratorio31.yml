@@ -53,4 +53,4 @@ jobs:
           app-name: 'Laboratorio31'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_24C7DC61B6DC46B095BB3535925C9CFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F331BD910B804005A06C1F87A0FF4E78 }}
